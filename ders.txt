@@ -1,1 +1,2 @@
-print("Sala")
+print("Salam")
+print("Sagol")
